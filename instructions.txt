@@ -30,7 +30,7 @@ Step Three: Create a simple Component-based form using JSX
     Create a ReactJS Component to handle input for an email
     Create a ReactJS Component to  input for a password
     Create a ReactJS Component to serve as a parent to all form elements
-    Create a button for submission in the form Componet
+    Create a button for submission in the form Component
     Create an App Component to serve as the parent for all children components
 
 Step Four: Introduce a event handler methods
